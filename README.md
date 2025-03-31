@@ -31,4 +31,25 @@ Hi 😄 I'm graduated in Computer Science at IME - Universidade de São Paulo.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/luizcarlosdk)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/luizcarlosdk/)
 
+## Resume
+
+<details>
+  <summary>See My Resume</summary>
+
+## Experience
+
+- **Software Developer - Hub USP Inovação**\
+📆 Jan/2021 - August 2023\
+📍 **IME-USP: Instituto de Matemática e Estatística da USP**
+
+## Education
+
+- 📖 **Computer Science B.S.**\
+📆 2020 - 2024\
+📍 **IME-USP: Instituto de Matemática e Estatística da USP**
+
+
+</details>
+
+
 [![An image of @luizcarlosdk1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luizcarlosdk1)](https://holopin.io/@luizcarlosdk1)

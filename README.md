@@ -6,12 +6,12 @@ Hi 😄 I'm graduated in Computer Science at IME - Universidade de São Paulo.
 
 ## Github Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true&theme=merco">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true&theme=midnight-purple" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosdk&show_icons=true&hide_border=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosdk&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosdk&show_icons=true&hide_border=true&theme=midnight-purple" />
 </a>
 
 </br>

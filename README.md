@@ -1,10 +1,13 @@
-# Luiz Carlos
+# 😄Welcome to my Github Profile!
 
-Hi 😄 I'm graduated in Computer Science at IME - Universidade de São Paulo.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Luiz+Carlos)](https://git.io/typing-svg)
+
+I'm graduated in Computer Science at IME - Universidade de São Paulo 🧑🏼‍🎓 And i'm currently focused on improving my coding techniques, and learning more about
+system design.
 
 📫 You can email me at [luizcarloszdk@gmail.com](mailto:luizcarloszdk@gmail.com)
 
-## Github Stats
+## 🌟Github Stats
 
 <a href="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true&theme=merco">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true&theme=midnight-purple" />
@@ -26,30 +29,22 @@ Hi 😄 I'm graduated in Computer Science at IME - Universidade de São Paulo.
 </br>
 </br>
 
-## About me
+## 🌱Experience
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/luizcarlosdk)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/luizcarlosdk/)
-
-## Resume
-
-<details>
-  <summary>See My Resume</summary>
-
-## Experience
-
-- **Software Developer - Hub USP Inovação**\
+- ⚙️**Software Developer - Hub USP Inovação**\
 📆 Jan/2021 - August 2023\
 📍 **IME-USP: Instituto de Matemática e Estatística da USP**
 
-## Education
+## 🎓Education
 
 - 📖 **Computer Science B.S.**\
 📆 2020 - 2024\
 📍 **IME-USP: Instituto de Matemática e Estatística da USP**
 
+## 😊About me
 
-</details>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/luizcarlosdk)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/luizcarlosdk/)
 
 
 [![An image of @luizcarlosdk1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luizcarlosdk1)](https://holopin.io/@luizcarlosdk1)

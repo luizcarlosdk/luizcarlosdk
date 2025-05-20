@@ -1,6 +1,6 @@
-# 😄Welcome to my Github Profile!
+# 😄Welcome to my Github!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+%F0%9F%98%8AI'm+Luiz+Carlos;Welcome+to+my+GitHub+Profile%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+%F0%9F%98%8AI'm+Luiz+Carlos;Welcome+to+my+profile%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 I'm graduated in Computer Science at IME - Universidade de São Paulo 🧑🏼‍🎓 And i'm currently focused on improving my coding techniques, and learning more about
 system design.

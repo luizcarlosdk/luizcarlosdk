@@ -9,27 +9,16 @@ system design.
 
 ## 🌟Github Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true&theme=merco">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true&theme=midnight-purple" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosdk&show_icons=true&hide_border=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosdk&show_icons=true&hide_border=true&theme=midnight-purple" />
-</a>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true&theme=midnight-purple"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosdk&layout=compact&hide_border=true&theme=midnight-purple"/>
+</div>
 
 ## 🌱Experience
+
+- ⚙️**Software Developer - Auria AI**\
+📆 August/2025 - Current\
+📍 **São Paulo**
 
 - ⚙️**Software Developer - Hub USP Inovação**\
 📆 Jan/2021 - August 2023\

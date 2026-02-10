@@ -7,13 +7,6 @@ system design.
 
 📫 You can email me at [luizcarloszdk@gmail.com](mailto:luizcarloszdk@gmail.com)
 
-## 🌟Github Stats
-
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=luizcarlosdk&show_icons=true&hide_border=true&theme=midnight-purple"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosdk&layout=compact&hide_border=true&theme=midnight-purple"/>
-</div>
-
 ## 🌱Experience
 
 - ⚙️**Software Developer - Auria AI**\

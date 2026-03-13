@@ -9,7 +9,7 @@ system design.
 
 ## 🌱Experience
 
-- ⚙️**Software Developer - Auria AI**\
+- ⚙️**Software Engineer - Auria AI**\
 📆 August/2025 - Current\
 📍 **São Paulo**
 

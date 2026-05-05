@@ -5,7 +5,7 @@
 I'm graduated in Computer Science at IME - Universidade de São Paulo 🧑🏼‍🎓 And i'm currently focused on improving my coding techniques, and learning more about
 system design.
 
-📫 You can email me at [luizcarloszdk@gmail.com](mailto:luizcarloszdk@gmail.com)
+📫 You can email me at [luizcarloszdk@gmail.com](mailto:luizcarloszdk@gmail.com) or check more details on my website: https://luizcarlosdk.github.io/
 
 ## 🌱Experience
 

@@ -10,7 +10,7 @@ system design.
 ## 🌱Experience
 
 - ⚙️**Software Engineer - Auria AI**\
-📆 August/2025 - Current\
+📆 August/2025 - August/2026\
 📍 **São Paulo**
 
 - ⚙️**Software Developer - Hub USP Inovação**\

@@ -10,7 +10,7 @@ system design.
 ## 🌱Experience
 
 - ⚙️**AI Engineer - Applied AI and Automations - BWG**\
-📆 August/2025 - July/2026\
+📆 August/2026 - Current\
 📍 **São Paulo**
 
 - ⚙️**AI Software Engineer - Auria AI**\
